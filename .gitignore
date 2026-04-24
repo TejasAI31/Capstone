@@ -1,8 +1,12 @@
+runs.xlsx
 capstone_env/
 data/
 embeddings/
 scripts/wandb/
 scripts/BART/wandb/
 scripts/BART/QuantumBart_RTheta.pt
+scripts/BART/QuantumBart_RTheta16.pt
 scripts/Alpaca/wandb/
 scripts/T5/wandb/
+scripts/Baseline/BaselineBart.pt
+scripts/Baseline/wandb/
